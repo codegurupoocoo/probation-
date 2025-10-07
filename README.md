@@ -87,8 +87,8 @@ docker compose up --build
 
 ## 🎥 Demo Video
 
-[Click here to view demo video]((https://drive.google.com/file/d/1--ey5Dn5DPLJpvZHPNFCWtdFnEcaWh0w/view?usp=sharing))
-*(Shows Task 1 workflow, dashboard, and Task 3 integration)*
+[Click here to view demo video](https://drive.google.com/file/d/1--ey5Dn5DPLJpvZHPNFCWtdFnEcaWh0w/view?usp=sharing)
+
 
 ---
 
